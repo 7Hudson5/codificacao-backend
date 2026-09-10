@@ -1,9 +1,9 @@
 
-# Project Title
+# codificação backend
 
 A brief description of what this project does and who it's for
 
-# 🚀 [Nome do Seu Projeto]
+# 🚀 codificação backend
 
 Uma solução de backend desenvolvida em **[Linguagem, ex: Node.js / Python / Java]** focada na implementação de regras de negócio, lógica de programação e algoritmos, mantendo o código desacoplado de dependências externas como banco de dados e APIs web.
 
